@@ -1,0 +1,10 @@
+E:\VB.NET Projects\DirectFerriesTask\ClassLibrary2\bin\Debug\PersonManagement.dll
+E:\VB.NET Projects\DirectFerriesTask\ClassLibrary2\bin\Debug\PersonManagement.pdb
+E:\VB.NET Projects\DirectFerriesTask\ClassLibrary2\bin\Debug\PersonManagement.xml
+E:\VB.NET Projects\DirectFerriesTask\ClassLibrary2\obj\Debug\PersonManagement.vbproj.AssemblyReference.cache
+E:\VB.NET Projects\DirectFerriesTask\ClassLibrary2\obj\Debug\PersonManagement.Resources.resources
+E:\VB.NET Projects\DirectFerriesTask\ClassLibrary2\obj\Debug\PersonManagement.vbproj.GenerateResource.cache
+E:\VB.NET Projects\DirectFerriesTask\ClassLibrary2\obj\Debug\PersonManagement.vbproj.CoreCompileInputs.cache
+E:\VB.NET Projects\DirectFerriesTask\ClassLibrary2\obj\Debug\PersonManagement.dll
+E:\VB.NET Projects\DirectFerriesTask\ClassLibrary2\obj\Debug\PersonManagement.xml
+E:\VB.NET Projects\DirectFerriesTask\ClassLibrary2\obj\Debug\PersonManagement.pdb
